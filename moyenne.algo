@@ -1,0 +1,12 @@
+Variables
+    note1 est un réel
+    note2 est un réel
+    moyenne est un réel
+
+Début
+    Ecrire "Entrez deux notes :"
+    Lire note1
+    Lire note2
+    moyenne ← (note1 + note2) / 2
+    Ecrire "La moyenne est : ", moyenne
+Fin

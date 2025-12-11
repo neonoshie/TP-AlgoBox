@@ -1,0 +1,12 @@
+Variables
+    a est un entier
+    b est un entier
+    somme est un entier
+
+Début
+    Ecrire "Entrez deux nombres :"
+    Lire a
+    Lire b
+    somme ← a + b
+    Ecrire "La somme est : ", somme
+Fin
